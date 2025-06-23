@@ -1,4 +1,4 @@
-# Breadth-First-Search-BFS-Algorithm
+# Breadth First Search (BFS) Algorithm
 
 A minimal Python implementation of **Breadth-First Search (BFS)** that walks you through the input *one question at a time* in the console.
 
